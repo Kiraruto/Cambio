@@ -1,0 +1,28 @@
+/** @format */
+
+.container {
+  display: block;
+  text-align: center;
+}
+
+.container02 {
+  position: absolute;
+  top: 50%;
+
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+}
+
+.opt1,
+.opt2,
+.inp3 {
+  height: 50px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.sec {
+  margin-top: 20px;
+  color: white;
+}
